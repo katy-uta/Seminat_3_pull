@@ -2,4 +2,4 @@
 
 ## It's first message from Katy.
 
-## It's message from friend
+## It's message from friend.
